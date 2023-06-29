@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VDbhOaOvLqBLuHrooAFrQvjm0gCSwmfddUdYIeZW3/JaQRVGAv2/ickD/uiJv19Odblw0sZvLErh73ZEjy7Bdg==",
+  "dgSpecHash": "YVEjqtc1ocd1FCTuf8SRSjCDsFyR7I7Nmad/BZrq1j8t6q/iatUGww5kesIyHoYT92IYeCWrBK3l4ZHdNjUHgw==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\c#\\ticketer\\ticketer.csproj",
+  "projectFilePath": "c:\\DEV\\c#\\ticketer\\ticketer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PASSION28\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\PASSION28\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

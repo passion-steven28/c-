@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\c#\\ticketer\\ticketer.csproj": {}
+    "c:\\DEV\\c#\\ticketer\\ticketer.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\c#\\ticketer\\ticketer.csproj": {
+    "c:\\DEV\\c#\\ticketer\\ticketer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\c#\\ticketer\\ticketer.csproj",
+        "projectUniqueName": "c:\\DEV\\c#\\ticketer\\ticketer.csproj",
         "projectName": "ticketer",
-        "projectPath": "C:\\DEV\\c#\\ticketer\\ticketer.csproj",
+        "projectPath": "c:\\DEV\\c#\\ticketer\\ticketer.csproj",
         "packagesPath": "C:\\Users\\PASSION28\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\c#\\ticketer\\obj\\",
+        "outputPath": "c:\\DEV\\c#\\ticketer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
