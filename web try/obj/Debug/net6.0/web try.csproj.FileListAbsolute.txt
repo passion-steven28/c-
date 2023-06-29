@@ -1,0 +1,31 @@
+C:\DEV\c#\web try\bin\Debug\net6.0\appsettings.Development.json
+C:\DEV\c#\web try\bin\Debug\net6.0\appsettings.json
+C:\DEV\c#\web try\bin\Debug\net6.0\web try.staticwebassets.runtime.json
+C:\DEV\c#\web try\bin\Debug\net6.0\web try.exe
+C:\DEV\c#\web try\bin\Debug\net6.0\web try.deps.json
+C:\DEV\c#\web try\bin\Debug\net6.0\web try.runtimeconfig.json
+C:\DEV\c#\web try\bin\Debug\net6.0\web try.dll
+C:\DEV\c#\web try\bin\Debug\net6.0\web try.pdb
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.csproj.AssemblyReference.cache
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.AssemblyInfoInputs.cache
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.AssemblyInfo.cs
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.csproj.CoreCompileInputs.cache
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.MvcApplicationPartsAssemblyInfo.cache
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.RazorAssemblyInfo.cache
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.RazorAssemblyInfo.cs
+C:\DEV\c#\web try\obj\Debug\net6.0\staticwebassets\msbuild.web try.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DEV\c#\web try\obj\Debug\net6.0\staticwebassets\msbuild.build.web try.props
+C:\DEV\c#\web try\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.web try.props
+C:\DEV\c#\web try\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.web try.props
+C:\DEV\c#\web try\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DEV\c#\web try\obj\Debug\net6.0\staticwebassets.build.json
+C:\DEV\c#\web try\obj\Debug\net6.0\staticwebassets.development.json
+C:\DEV\c#\web try\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\DEV\c#\web try\obj\Debug\net6.0\scopedcss\bundle\web try.styles.css
+C:\DEV\c#\web try\obj\Debug\net6.0\scopedcss\projectbundle\web try.bundle.scp.css
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.dll
+C:\DEV\c#\web try\obj\Debug\net6.0\refint\web try.dll
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.pdb
+C:\DEV\c#\web try\obj\Debug\net6.0\web try.genruntimeconfig.cache
+C:\DEV\c#\web try\obj\Debug\net6.0\ref\web try.dll

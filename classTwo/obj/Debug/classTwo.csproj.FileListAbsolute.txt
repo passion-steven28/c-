@@ -1,0 +1,8 @@
+C:\DEV\c#\classTwo\bin\Debug\classTwo.exe.config
+C:\DEV\c#\classTwo\bin\Debug\classTwo.exe
+C:\DEV\c#\classTwo\bin\Debug\classTwo.pdb
+C:\DEV\c#\classTwo\obj\Debug\classTwo.csproj.AssemblyReference.cache
+C:\DEV\c#\classTwo\obj\Debug\classTwo.csproj.SuggestedBindingRedirects.cache
+C:\DEV\c#\classTwo\obj\Debug\classTwo.csproj.CoreCompileInputs.cache
+C:\DEV\c#\classTwo\obj\Debug\classTwo.exe
+C:\DEV\c#\classTwo\obj\Debug\classTwo.pdb

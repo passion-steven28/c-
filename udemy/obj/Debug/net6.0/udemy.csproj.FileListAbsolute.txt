@@ -1,0 +1,15 @@
+C:\DEV\c#\udemy\bin\Debug\net6.0\udemy.exe
+C:\DEV\c#\udemy\bin\Debug\net6.0\udemy.deps.json
+C:\DEV\c#\udemy\bin\Debug\net6.0\udemy.runtimeconfig.json
+C:\DEV\c#\udemy\bin\Debug\net6.0\udemy.dll
+C:\DEV\c#\udemy\bin\Debug\net6.0\udemy.pdb
+C:\DEV\c#\udemy\obj\Debug\net6.0\udemy.csproj.AssemblyReference.cache
+C:\DEV\c#\udemy\obj\Debug\net6.0\udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\c#\udemy\obj\Debug\net6.0\udemy.AssemblyInfoInputs.cache
+C:\DEV\c#\udemy\obj\Debug\net6.0\udemy.AssemblyInfo.cs
+C:\DEV\c#\udemy\obj\Debug\net6.0\udemy.csproj.CoreCompileInputs.cache
+C:\DEV\c#\udemy\obj\Debug\net6.0\udemy.dll
+C:\DEV\c#\udemy\obj\Debug\net6.0\refint\udemy.dll
+C:\DEV\c#\udemy\obj\Debug\net6.0\udemy.pdb
+C:\DEV\c#\udemy\obj\Debug\net6.0\udemy.genruntimeconfig.cache
+C:\DEV\c#\udemy\obj\Debug\net6.0\ref\udemy.dll

@@ -1,0 +1,8 @@
+C:\DEV\c#\new consoleApp about class\bin\Debug\new consoleApp about class.exe.config
+C:\DEV\c#\new consoleApp about class\bin\Debug\new consoleApp about class.exe
+C:\DEV\c#\new consoleApp about class\bin\Debug\new consoleApp about class.pdb
+C:\DEV\c#\new consoleApp about class\obj\Debug\new consoleApp about class.csproj.AssemblyReference.cache
+C:\DEV\c#\new consoleApp about class\obj\Debug\new consoleApp about class.csproj.SuggestedBindingRedirects.cache
+C:\DEV\c#\new consoleApp about class\obj\Debug\new consoleApp about class.csproj.CoreCompileInputs.cache
+C:\DEV\c#\new consoleApp about class\obj\Debug\new consoleApp about class.exe
+C:\DEV\c#\new consoleApp about class\obj\Debug\new consoleApp about class.pdb

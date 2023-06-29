@@ -1,0 +1,8 @@
+C:\DEV\c#\udemyCourse\bin\Debug\udemyCourse.exe.config
+C:\DEV\c#\udemyCourse\bin\Debug\udemyCourse.exe
+C:\DEV\c#\udemyCourse\bin\Debug\udemyCourse.pdb
+C:\DEV\c#\udemyCourse\obj\Debug\udemyCourse.csproj.AssemblyReference.cache
+C:\DEV\c#\udemyCourse\obj\Debug\udemyCourse.csproj.SuggestedBindingRedirects.cache
+C:\DEV\c#\udemyCourse\obj\Debug\udemyCourse.csproj.CoreCompileInputs.cache
+C:\DEV\c#\udemyCourse\obj\Debug\udemyCourse.exe
+C:\DEV\c#\udemyCourse\obj\Debug\udemyCourse.pdb

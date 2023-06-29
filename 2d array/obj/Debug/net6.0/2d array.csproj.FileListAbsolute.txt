@@ -1,0 +1,15 @@
+C:\DEV\c#\2d array\obj\Debug\net6.0\2d array.csproj.AssemblyReference.cache
+C:\DEV\c#\2d array\obj\Debug\net6.0\2d array.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\c#\2d array\obj\Debug\net6.0\2d array.AssemblyInfoInputs.cache
+C:\DEV\c#\2d array\obj\Debug\net6.0\2d array.AssemblyInfo.cs
+C:\DEV\c#\2d array\obj\Debug\net6.0\2d array.csproj.CoreCompileInputs.cache
+C:\DEV\c#\2d array\bin\Debug\net6.0\2d array.exe
+C:\DEV\c#\2d array\bin\Debug\net6.0\2d array.deps.json
+C:\DEV\c#\2d array\bin\Debug\net6.0\2d array.runtimeconfig.json
+C:\DEV\c#\2d array\bin\Debug\net6.0\2d array.dll
+C:\DEV\c#\2d array\bin\Debug\net6.0\2d array.pdb
+C:\DEV\c#\2d array\obj\Debug\net6.0\2d array.dll
+C:\DEV\c#\2d array\obj\Debug\net6.0\refint\2d array.dll
+C:\DEV\c#\2d array\obj\Debug\net6.0\2d array.pdb
+C:\DEV\c#\2d array\obj\Debug\net6.0\2d array.genruntimeconfig.cache
+C:\DEV\c#\2d array\obj\Debug\net6.0\ref\2d array.dll

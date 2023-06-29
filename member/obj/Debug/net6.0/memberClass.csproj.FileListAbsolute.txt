@@ -1,0 +1,15 @@
+C:\DEV\c#\member\bin\Debug\net6.0\memberClass.exe
+C:\DEV\c#\member\bin\Debug\net6.0\memberClass.deps.json
+C:\DEV\c#\member\bin\Debug\net6.0\memberClass.runtimeconfig.json
+C:\DEV\c#\member\bin\Debug\net6.0\memberClass.dll
+C:\DEV\c#\member\bin\Debug\net6.0\memberClass.pdb
+C:\DEV\c#\member\obj\Debug\net6.0\memberClass.csproj.AssemblyReference.cache
+C:\DEV\c#\member\obj\Debug\net6.0\memberClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\c#\member\obj\Debug\net6.0\memberClass.AssemblyInfoInputs.cache
+C:\DEV\c#\member\obj\Debug\net6.0\memberClass.AssemblyInfo.cs
+C:\DEV\c#\member\obj\Debug\net6.0\memberClass.csproj.CoreCompileInputs.cache
+C:\DEV\c#\member\obj\Debug\net6.0\memberClass.dll
+C:\DEV\c#\member\obj\Debug\net6.0\refint\memberClass.dll
+C:\DEV\c#\member\obj\Debug\net6.0\memberClass.pdb
+C:\DEV\c#\member\obj\Debug\net6.0\memberClass.genruntimeconfig.cache
+C:\DEV\c#\member\obj\Debug\net6.0\ref\memberClass.dll

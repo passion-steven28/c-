@@ -1,0 +1,5 @@
+C:\DEV\c#\libralClass\obj\Debug\net6.0\libralClass.csproj.AssemblyReference.cache
+C:\DEV\c#\libralClass\obj\Debug\net6.0\libralClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\c#\libralClass\obj\Debug\net6.0\libralClass.AssemblyInfoInputs.cache
+C:\DEV\c#\libralClass\obj\Debug\net6.0\libralClass.AssemblyInfo.cs
+C:\DEV\c#\libralClass\obj\Debug\net6.0\libralClass.csproj.CoreCompileInputs.cache

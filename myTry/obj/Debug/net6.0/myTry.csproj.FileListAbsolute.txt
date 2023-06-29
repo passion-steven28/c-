@@ -1,0 +1,15 @@
+C:\DEV\c#\myTry\bin\Debug\net6.0\myTry.exe
+C:\DEV\c#\myTry\bin\Debug\net6.0\myTry.deps.json
+C:\DEV\c#\myTry\bin\Debug\net6.0\myTry.runtimeconfig.json
+C:\DEV\c#\myTry\bin\Debug\net6.0\myTry.dll
+C:\DEV\c#\myTry\bin\Debug\net6.0\myTry.pdb
+C:\DEV\c#\myTry\obj\Debug\net6.0\myTry.csproj.AssemblyReference.cache
+C:\DEV\c#\myTry\obj\Debug\net6.0\myTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\c#\myTry\obj\Debug\net6.0\myTry.AssemblyInfoInputs.cache
+C:\DEV\c#\myTry\obj\Debug\net6.0\myTry.AssemblyInfo.cs
+C:\DEV\c#\myTry\obj\Debug\net6.0\myTry.csproj.CoreCompileInputs.cache
+C:\DEV\c#\myTry\obj\Debug\net6.0\myTry.dll
+C:\DEV\c#\myTry\obj\Debug\net6.0\refint\myTry.dll
+C:\DEV\c#\myTry\obj\Debug\net6.0\myTry.pdb
+C:\DEV\c#\myTry\obj\Debug\net6.0\myTry.genruntimeconfig.cache
+C:\DEV\c#\myTry\obj\Debug\net6.0\ref\myTry.dll
